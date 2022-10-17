@@ -1,0 +1,5 @@
+- Instalar o SDK do .NET ou o runtime do .NET no Ubuntu:
+https://learn.microsoft.com/pt-br/dotnet/core/install/linux-ubuntu
+
+- Installing .NET 6 on Ubuntu 22.04:
+https://github.com/dotnet/core/issues/7699
